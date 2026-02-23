@@ -1,0 +1,6 @@
+ #!/usr/bin/env bash
+echo "updating"
+sudo pacman -Syu
+pacman -Qdtq | pacman -Rs -
+sudo paccache -rk1
+echo "Done"
