@@ -1,2 +1,4 @@
 # Scripts
-Arch scripts
+Arch scripts  
+Update scripts:
+  arch update
