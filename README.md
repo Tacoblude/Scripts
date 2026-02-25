@@ -1,4 +1,5 @@
 # Scripts
 Scripts:  
-Update scripts:  
-  arch update
+Arch scripts:  
+Arch update  
+Mac changer  
