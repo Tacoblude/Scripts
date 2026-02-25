@@ -1,5 +1,6 @@
- #!/usr/bin/env bash
-echo "updating"
+#!/usr/bin/env bash
+# mac="USER INPUT"
+read -p "Enter mac adderes: " mac
 sudo ip link set dev wlan0 down
 sudo ip link set dev wlan0 address mac
 sudo ip link set dev wlan0 up
