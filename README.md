@@ -4,3 +4,4 @@ Arch scripts:
 Arch update  
 Mac changer  
 Yay installer
+Paru installer
